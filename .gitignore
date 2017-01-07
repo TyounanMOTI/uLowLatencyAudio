@@ -1,3 +1,8 @@
+*.db
+*.opendb
+[Dd]ebug/
+[Rr]elease/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
